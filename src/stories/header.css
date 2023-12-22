@@ -30,3 +30,10 @@
   font-size: 14px;
   margin-right: 10px;
 }
+
+img{
+  width: 30px;
+  display: inline-block;
+  vertical-align: top;
+  background-color: black;
+}
